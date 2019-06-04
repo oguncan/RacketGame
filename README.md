@@ -38,5 +38,5 @@ Oyununuzda seviyeler var mı?
 Oyunda seviye mevcut değildir.
 
 <br>
-![img](https://github.com/oguncan/RacketGame/blob/master/resim.png)
 
+![img](https://github.com/oguncan/RacketGame/blob/master/resim.png)
